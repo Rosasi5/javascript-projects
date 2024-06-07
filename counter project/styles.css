@@ -1,0 +1,32 @@
+.container{
+    margin-left: 800px;
+    margin-top: 300px;
+}
+.btn {
+    padding: 10px;
+    margin-top: 100px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+.btn:hover {
+    background-color: black;
+    color: white;
+    transform: scale(1.2);
+}
+
+#value {
+    margin-left: 130px;
+    font-size: 40px;
+}
+
+body{
+    background-color: rgb(98, 192, 236);
+}
+
+h1 {
+    margin-top: -200px;
+    margin-left: 70px;
+    position: absolute;
+}
